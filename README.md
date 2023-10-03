@@ -8,9 +8,9 @@ It's intended use is to speed up unban request discussions by retrieving ban rel
 
 ## How to use
 Install pyautogui:
-  1. have python installed in your machine.
-  2. open cmd.
-  3. type "pip install pyautogui". <br>
+    1. have python installed in your machine.
+    2. open cmd.
+    3. type "pip install pyautogui". <br>
 rename username.py file to the username whose logs you want to see. <br>
 Open the renamed .py file and specify in the URL whose channel's logs you want to see.
 
