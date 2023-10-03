@@ -7,7 +7,11 @@ it does NOT return a user's full chat history.
 It's intended use is to speed up unban request discussions by retrieving ban relevant log data
 
 ## How to use
-rename username.py file to the username whose logs you want to see.
+Install pyautogui:
+  1. have python installed in your machine
+  2. open cmd
+  3. type "pip install pyautogui"
+rename username.py file to the username whose logs you want to see. <br>
 Open the renamed .py file and specify in the URL whose channel's logs you want to see.
 
 ## For safety
