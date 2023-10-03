@@ -1,2 +1,18 @@
 # Twitch-user-logs-into-text-file
 This python script uses pyautogui automation features to open twitch chat logs of a user and paste them into a .txt file
+
+This script only returns the more recent messages of a user's history.
+it does NOT return a user's full chat history.
+
+It's intended use is to speed up unban request discussions by retrieving ban relevant log data
+
+## How to use
+rename the .py file to the username whose logs you want to see.
+Open the .py file and specify in the URL whose channel's logs you want to see.
+
+## For safety
+This script uses pyautogui
+do not alt tab, open files or programs while this script runs
+
+## additional information
+average run time for this script is 7 seconds
